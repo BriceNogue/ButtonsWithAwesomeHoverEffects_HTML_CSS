@@ -17,6 +17,7 @@ body{
     margin: 10px;
     position: relative;
     overflow: hidden;
+    border-radius: 10px;
 }
 .btn1,.btn2{
     color: #3498db;
